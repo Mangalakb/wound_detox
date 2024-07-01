@@ -1,0 +1,33 @@
+const Colors = {
+    RED: "#B33F40",
+    GRAY_DARK: "#626263",
+    YELLOW_DARK: "#F1E170",
+    LIGHT_BLUE: "#CCE7F0",
+    BLACK_LIGHT: "#4A4A4A",
+    MATTE_BLUE: "#4285F4",
+    MATTE_RED: "#EA4335",
+    MATTE_YELLOW: "#FBBC05",
+    MATTE_GREEN: "#34A853",
+    MATTE_GRAY: "#5F6368",
+    PRIMARY_BACKGROUBD: "#F4BFD4",
+    PRIMARY: "#6577B3",
+    SECONDARY: "#000000",
+    WHITE: "#FFFFFF",
+    BACKGROUND: "#F2F2F2",
+    GRAY: "#7B7B7C",
+    GRAY_LIGHT: "#E7E7E7",
+    TEXT_PRIMARY: "#252525",
+    TEXT_SECONDARY: "#252525",
+    TEXT_LINK: "#3F7AB3",
+    BLUE: "#92b9e5",
+    RED: "#B33F40",
+    GREEN: "#3FB378",
+    ORANGE: "#ED944D",
+    YELLOW: "#EDD94C",
+    BLACK: "#454545",
+    TEEL: "#B6C9A6",
+    MODAL_BACKDROP: "#242424D4",
+  };
+  
+  export default Colors;
+  
